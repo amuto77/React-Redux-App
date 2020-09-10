@@ -28,10 +28,10 @@ In this project you'll choose an api to consume. You will build an application f
 - [x] CD into the project base directory `cd React-Redux-App`.
 - [x] Run `npx create-react-app app --use-npm` to make a CRA app.
 - [x] CD into the react app `cd app`.
-- [ ] Start up the app using `npm start`.
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x] Start up the app using `npm start`.
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: Minimum Viable Product
 
